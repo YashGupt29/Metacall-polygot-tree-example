@@ -157,7 +157,8 @@ export default function TreeVisualization() {
           <span className="text-yellow-500 font-bold"> yellow</span> nodes are
           intermediate (JavaScript), and the{" "}
           <span className="text-red-500 font-bold">red</span> nodes are leaves
-          (C). Click "Execute Traversal" to see the animated traversal sequence.
+          (C). Click {'"Execute Traversal"'} to see the animated traversal
+          sequence.
         </p>
       </div>
 
